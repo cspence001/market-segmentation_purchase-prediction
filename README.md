@@ -1,6 +1,6 @@
 # clustered_dendrogram
 
-<b>project:</b><br><br>
+<b>project:</b><br>
 purchase prediction using k-means to identify target variables based on user demographics 
 <br><br>
 <b>primary models:</b><br>
@@ -8,7 +8,7 @@ purchase prediction using k-means to identify target variables based on user dem
 <b>Binary logistic regression</b> used to classify features based on binary target variable of Purchased/Not Purchased 
 <b>classifcaation report, confusion matrix</b> used to determine accuracy of model at predicting future Purchased/Not Purchased.
 <br><br>
-<b>notebooks:</b><br>>
+<b>notebooks:</b><br>
 <a href="https://github.com/cspence001/clustered_dendrogram/blob/main/notebooks/purchase_models.ipynb">notebook analysis</a>
 <br><br>
 <h5>jupyter notebook running pandas dataframes using matplotlib, seaborn, sklearn</h5>
