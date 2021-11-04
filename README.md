@@ -1,6 +1,5 @@
 # clustered_dendrogram
 
-<b>project:</b><br>
 purchase prediction using k-means to identify target variables based on user demographics 
 <br><br>
 <b>primary models:</b><br>
