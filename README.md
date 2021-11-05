@@ -1,6 +1,7 @@
 # clustered_dendrogram
 
-purchase prediction using k-means to identify target variables based on user demographics 
+market segmentation using k-means to identify target variables based on user demographics 
+purchase prediction using logistic regression to predict binary variable of Purchased / Not Purchased as determined by target feature variants
 <br><br>
 <b>primary models:</b><br>
 <ul>
@@ -11,3 +12,4 @@ purchase prediction using k-means to identify target variables based on user dem
 <a href="https://github.com/cspence001/clustered_dendrogram/blob/main/notebooks/purchase_models.ipynb">notebook analysis</a>
 <br>
 <h5>jupyter notebook running pandas dataframes using matplotlib, seaborn, sklearn</h5>
+
