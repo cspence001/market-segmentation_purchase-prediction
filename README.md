@@ -1,8 +1,6 @@
 # market-segmentation_purchase-prediction
 
-market segmentation using k-means to identify target variables based on user demographics <br>
-purchase prediction using logistic regression to predict binary variable of Purchased / Not Purchased as determined by target feature variants
-<br><br>
+<br>
 <b>primary models:</b><br>
 <ul>
 <li><b>K-means</b> used to identify and label dominant target clusters based on cluster and sub-cluster feature variants<br> </li>
