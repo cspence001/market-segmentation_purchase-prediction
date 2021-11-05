@@ -1,7 +1,7 @@
 # market-segmentation_purchase-prediction
 
-Customer Analysis and Market Segmentation based on user demographics (Age, Gender, Salary, Purchased/Not Purchased) to identify target markets and predict future purchase behavior. 
-<br>
+Customer analysis and market segmentation based on user demographics (Age, Gender, Salary, Purchased/Not Purchased) to identify target markets and predict future purchase behavior. 
+<br><br>
 <b>primary models:</b><br>
 <ul>
 <li><b>K-means</b> used to identify and label dominant target clusters based on cluster and sub-cluster feature variants<br> </li>
