@@ -1,4 +1,4 @@
-# clustered_dendrogram
+# market-segmentation_purchase-prediction
 
 market segmentation using k-means to identify target variables based on user demographics <br>
 purchase prediction using logistic regression to predict binary variable of Purchased / Not Purchased as determined by target feature variants
