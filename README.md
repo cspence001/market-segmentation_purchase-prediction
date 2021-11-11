@@ -19,7 +19,7 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 /blob/main/notebooks/purchase_models.ipynb">purchase analysis</a>
 <br>
 <a href="https://github.com/cspence001/market-segmentation_purchase-prediction
-/blob/main/notebooks/log-regression_k-folds.ipynb">purchase analysis</a>
+/blob/main/notebooks/log-regression_k-folds.ipynb">prediction analysis</a>
 <br>
 <h5>jupyter notebook running pandas dataframes using matplotlib, seaborn, sklearn</h5>
 
