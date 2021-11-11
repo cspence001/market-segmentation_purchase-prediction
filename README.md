@@ -6,7 +6,9 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <ul>
 <li><b>purchase models</b> used to identify and label target market clusters based on cluster and sub-clusterfeature variants: Gender, Age, Salary, Purchased/Not Purchased<br> </li>
 <li><b>K-means</b> used to identify and label target market clusters<br> </li>
+</ul>
 <b>prediction models:</b><br>
+<ul>
 <li><b>Logistic Regression using WoE and K-folds</b> 
 <li><b>Logistic Regression using IV and K-folds</b> 
 <li><b>Logistic Regression using one-hot and K-folds</b> 
