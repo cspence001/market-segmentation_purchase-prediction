@@ -4,7 +4,7 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <br><br>
 <b>primary models:</b><br>
 <ul>
-<li><b>purchase models</b> used to identify and label target market clusters based on cluster and sub-clusterfeature variants: Gender, Age, Salary, Purchased/Not Purchased<br> </li>
+<li><b>purchase models</b> used to identify and label target market clusters based on cluster and sub-cluster feature variants: Gender, Age, Salary, Purchased/Not Purchased<br> </li>
 <li><b>K-means</b> used to identify and label target market clusters<br> </li>
 </ul>
 <b>prediction models:</b><br><br>
