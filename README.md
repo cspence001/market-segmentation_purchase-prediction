@@ -9,6 +9,7 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 </ul>
 <b>prediction models:</b><br><br>
 <ul>
+<li><b>Logistic Regression using Standard Scalar, TTS</b> 
 <li><b>Logistic Regression using WoE and K-folds</b> 
 <li><b>Logistic Regression using IV and K-folds</b> 
 <li><b>Logistic Regression using one-hot and K-folds</b> 
