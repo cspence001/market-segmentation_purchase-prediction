@@ -12,8 +12,8 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <li><b>Logistic Regression using Standard Scalar, TTS</b> 
 <li><b>Logistic Regression using Standard Scalar, TTS WoE Encoded Variables</b> </li>
 <br>
-<b>Data Tier-level exclusive 'K-wise' Optimization Models:<b>
-<br><br>
+<b>Data Tier-level exclusive 'K-wise' Optimization Models:</b>
+<br>*models used to determine efficacy of tier-market labeling as sub-divided within k-clusters, i.e. if distribution among sub-divided salary and age categorical tier thresholds, contributes effectively to model accuracy for classification of binary dependent variable.<br><br>
 <li><b>Logistic Regression using one-hot and K-folds</b></li> 
 <li><b>Logistic regression using one-hot and TTS</b> 
 <li><b>Logistic Regression using WoE, IV and K-folds (scaled, not scaled)</b> 
@@ -26,7 +26,7 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <a href="https://github.com/cspence001/market-segmentation_purchase-prediction
 /blob/main/notebooks/log-regression_k-folds.ipynb">prediction models</a>
 <br>
-<a href="https://github.com/cspence001/market-segmentation_purchase-prediction/blob/main/Resources/Models_Results.docx">model/results evaluation</a>
+<a href="https://github.com/cspence001/market-segmentation_purchase-prediction/blob/main/Resources/Models_Results.docx">custom tier training confluence map</a>
 <br>
 <h5>jupyter notebook running pandas dataframes using matplotlib, seaborn, sklearn</h5>
 
