@@ -13,7 +13,7 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <li><b>Logistic Regression using Standard Scalar, TTS WoE Encoded Variables</b> </li>
 <br>
 <b>Data Tier-level exclusive 'K-wise' Optimization Models:<b>
-<br><br>
+<br><br>*models used to determine efficacy of tier-market labeling as sub-divided within k-clusters, i.e. if distribution among sub-divided salary and age tier thresholds, contributes effectively to model accuracy for classification of binary dependent variable.<br><br>
 <li><b>Logistic Regression using one-hot and K-folds</b></li> 
 <li><b>Logistic regression using one-hot and TTS</b> 
 <li><b>Logistic Regression using WoE, IV and K-folds (scaled, not scaled)</b> 
