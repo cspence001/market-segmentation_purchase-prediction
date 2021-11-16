@@ -26,7 +26,7 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <a href="https://github.com/cspence001/market-segmentation_purchase-prediction
 /blob/main/notebooks/log-regression_k-folds.ipynb">prediction models</a>
 <br>
-<a href="https://github.com/cspence001/market-segmentation_purchase-prediction/blob/main/Resources/Models_Results.docx">Custom Tier Training Confluence Map</a>
+<a href="https://github.com/cspence001/market-segmentation_purchase-prediction/blob/main/Resources/Models_Results.docx">custom tier training confluence map</a>
 <br>
 <h5>jupyter notebook running pandas dataframes using matplotlib, seaborn, sklearn</h5>
 
