@@ -9,15 +9,6 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 </ul>
 <b>prediction models:</b><br><br>
 <ul>
-<li><b>Logistic Regression using Standard Scalar, TTS</b> 
-<li><b>Logistic Regression using WoE and K-folds (binary-encoded variables)</b> 
-<li><b>Logistic Regression using IV and K-folds (binary-encoded variables)</b> 
-<li><b>Logistic Regression using one-hot and K-folds</b> 
-<li><b>Logistic regression using one-hot and TTS</b> 
-<li><b>classification report, confusion matrix</b> used to determine accuracy of model at predicting Purchased/Not Purchased <br> </li>
-</ul>
-
-<ul>
 <li><b>Logistic Regression using Standard Scalar, TTS on Continuous Variables</b> 
 <li><b>Logistic Regression using Standard Scalar, TTS WoE Encoded Variables</b> 
 <li><b>Data Tier Review for K-fold optimized models:<b></li>
