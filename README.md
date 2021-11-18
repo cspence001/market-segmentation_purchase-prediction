@@ -11,11 +11,13 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <ul>
 <li><b>Logistic Regression using Standard Scalar, TTS</b> 
 <li><b>Logistic Regression using Standard Scalar, TTS WoE Encoded Variables</b> </li>
-<br>
+<li><b>Decision Tree, TTS</b> 
+<br><br>
 <b>Data Tier-level exclusive 'K-wise' Optimization Models:</b>
 <br>*models used to determine efficacy of tier-market labeling as sub-divided within k-clusters, i.e. if distribution among sub-divided salary and age categorical tier thresholds, contributes effectively to model accuracy for classification of binary dependent variable.<br><br>
 <li><b>Logistic Regression using one-hot and K-folds</b></li> 
 <li><b>Logistic regression using one-hot and TTS</b> 
+<li><b>Decision Tree using one-hot and TTS</b> 
 <li><b>Logistic Regression using WoE, IV and K-folds (scaled, not scaled)</b> 
 <li><b>classification report, confusion matrix</b> used to determine accuracy of each model at predicting Purchased/Not Purchased <br> </li>
 </ul>
