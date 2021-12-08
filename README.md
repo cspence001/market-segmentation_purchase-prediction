@@ -18,7 +18,7 @@ Customer analysis and market segmentation based on user demographics (Age, Gende
 <li><b>Logistic Regression using one-hot and K-folds</b></li> 
 <li><b>Logistic regression using one-hot and TTS</b> 
 <li><b>Decision Tree using one-hot and TTS</b> 
-<li><b>Logistic Regression using WoE, IV and K-folds (scaled, not scaled)</b> 
+<li><b>Logistic Regression using WoE, IV and K-folds </b> 
 <li><b>classification report, confusion matrix</b> used to determine accuracy of each model at predicting Purchased/Not Purchased <br> </li>
 </ul>
 
